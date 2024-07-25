@@ -13,7 +13,7 @@ To address these issues, KSY needs to implement technological solutions that str
 
 **Objectives:**
 <br>
-The main objective of the study is to develop a Application for KSY Beauty and Wellness Center: Enhancing Customer Experience and Business Operations
+The main objective of the study is to develop a Application for KSY Beauty and Wellness Center: Enhancing Customer Experience and Business Operations <br>
 Specify, it aims to:
 <br>
 
