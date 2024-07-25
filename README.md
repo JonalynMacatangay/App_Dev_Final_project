@@ -1,4 +1,4 @@
-Project Title:  BeautyConnect: Enhancing Customer Experience and Business Operations through a Comprehensive  Mobile App for KSY Beauty and Wellness Center
+**Project Title:  BeautyConnect: Enhancing Customer Experience and Business Operations through a Comprehensive  Mobile App for KSY Beauty and Wellness Center**
 
 Project Introduction: 
 	The owner of KSY Beauty and Wellness Center, who strongly believes in the importance of looks, was driven to create the business. The KSY was founded on September 8, 2021, with the vision that everyone could have access to excellent beauty treatments without having to worry about breaking the bank. Focusing on providing high-quality services at affordable prices, KSY Beauty and Wellness Center has grown to twenty branches in different areas, including Taguig City, Cavite, San Pascual, Mabini, Rosario, Bauan, and Batangas City. Soon, branches will open in Rizal, Lipa City, Novaliches, and Sto. Tomas, Tarlac, Tanauan Batangas, etc.
