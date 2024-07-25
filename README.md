@@ -1,6 +1,7 @@
 **Project Title:  BeautyConnect: Enhancing Customer Experience and Business Operations through a Comprehensive  Mobile App for KSY Beauty and Wellness Center**
 
-Project Introduction: 
+**Project Introduction:**
+<br>
 	The owner of KSY Beauty and Wellness Center, who strongly believes in the importance of looks, was driven to create the business. The KSY was founded on September 8, 2021, with the vision that everyone could have access to excellent beauty treatments without having to worry about breaking the bank. Focusing on providing high-quality services at affordable prices, KSY Beauty and Wellness Center has grown to twenty branches in different areas, including Taguig City, Cavite, San Pascual, Mabini, Rosario, Bauan, and Batangas City. Soon, branches will open in Rizal, Lipa City, Novaliches, and Sto. Tomas, Tarlac, Tanauan Batangas, etc.
 Each branch of KSY Beauty and Wellness Center provides an extensive range of services catering to various beauty and wellness needs. From lash treatments to slimming services, wart removal, whitening services, nail care, massages, and advanced procedures like PRP microneedling and glutathione drips, the center ensures a comprehensive approach to beauty enhancement. Additional offerings include laser removal services, facial treatments, foot spas, hair removal, black doll facials, Korean BB Glow, nail extensions, and PRP Scalp treatments for hair growth. With a commitment to quality and affordability, KSY Beauty and Wellness Center strives to empower individuals to look and feel their best.	
 
@@ -10,7 +11,8 @@ To address these issues, KSY needs to implement technological solutions that str
 
 <br>
 
-Objectives:
+**Objectives:**
+<br>
 The main objective of the study is to develop a Application for KSY Beauty and Wellness Center: Enhancing Customer Experience and Business Operations
 Specify, it aims to:
 <br>
@@ -25,7 +27,8 @@ Specify, it aims to:
 3.2 Appointments and scheduling 
 <br>
 
-Project Description: 
+**Project Description:**
+<br>
 The development of the mobile application for KSY Beauty and Wellness Center includes a number of features designed to improve user experience. Customers may choose their desired services, chosen days, and preferred hours easily due to the straightforward appointment scheduling function, which makes the scheduling procedure simple and can choose or view the schedule availability of each staff member. The app increases convenience and engagement by using geolocation technology to provide personalized recommendations for nearby branches. KSY uses the app's powerful customer relationship management (CRM) features which include real-time conversation capabilities to efficiently handle customer profiles, preferences, and appointment histories. This makes it possible for clients and KSY employees to communicate directly and quickly, developing connections and quickly addressing problems. The addition of a feedback and reviews system also gives customers the ability to express their thoughts, evaluations, and experiences, which is very helpful for KSY's ongoing efforts for growth. 
 The purpose of KSY Beauty and Wellness Center's online system development is to improve customer service and streamline operations throughout all of its branches. A customer appointment notification system is also included within the system to enhance operational effectiveness and ensure seamless scheduling procedures. Together, these features improve the general KSY Beauty and Wellness Center client experience and streamline branch operations.
 Two key reports provide comprehensive evaluations of multiple business factors in the KSY Beauty and Wellness Center's monthly reporting system. Managers may improve resource allocation and service efficiency by using the Appointments & Scheduling Report, which provides insightful data on booking trends, cancellations, and scheduling patterns. Lastly, a thorough summary of the company's Sales Report. Through the use of these reports, KSY Beauty and Wellness Center will be able to make wise judgments, simplify operations, and prosper in the competitive beauty and wellness sector.
